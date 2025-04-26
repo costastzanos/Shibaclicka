@@ -9,7 +9,7 @@
 .header {
     text-align: center;
     margin-top: 0px;
-    background-image: url(../img/header.png);
+    background-image: url("img/header.png");
 }
 
 .clicks{
