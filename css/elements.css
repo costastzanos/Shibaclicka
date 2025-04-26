@@ -1,8 +1,8 @@
 html, body {
     margin: 0;
-    background-image: url("/img/background.png");
+    background-image: url("./img/background.png");
     background-color: #ffe1b2;
-    cursor: url("/img/cursor.png"), auto;
+    cursor: url("./img/cursor.png"), auto;
 }   
 
 h1, h2, h3, h4 ,h5, p {
